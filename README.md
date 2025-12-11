@@ -1,6 +1,5 @@
 # Bellbird
 
-https://wilson-bellbird.herokuapp.com/
 Users send alarms, like tweets.
 
 ## Todo
